@@ -18,11 +18,11 @@ In order to run our notebook you would need to have the following packages insta
 * nilearn
 
 
-Task for next week:
+<!-- Task for next week:
 * try analysis on different d resolutions
 * try combining the subjects by averaging over the time series
 * try combingng the subjects by averaging over the datapoints across subjects??? (Not sure abt this one)
 * read the research paper
 
 Q1 project:
-* map brain connectivity
+* map brain connectivity -->
