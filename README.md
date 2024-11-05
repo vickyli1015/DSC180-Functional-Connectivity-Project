@@ -1,5 +1,8 @@
 # DSC180-Functional-Connectivity-Project
 
+Structure of our project:
+`main.ipynb` is the combination of all of our analysis and exploration on dynamic functional connectivity.
+
 How to get the data?
 
 For this project, we use the resting fMRI data from the Human Connectome Project (HCP) from this [paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC3724347/) and the data description can be found [here](https://www.humanconnectome.org/storage/app/media/documentation/s1200/HCP1200-DenseConnectome+PTN+Appendix-July2017.pdf). 
