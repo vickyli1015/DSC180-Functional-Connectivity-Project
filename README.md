@@ -1,7 +1,10 @@
 # DSC180-Functional-Connectivity-Project
 
 Structure of our project:
+
 `main.ipynb` is the combination of all of our analysis and exploration on dynamic functional connectivity.
+
+
 
 How to get the data?
 
