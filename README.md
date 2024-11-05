@@ -22,6 +22,8 @@ In order to run our notebook you would need to have the following packages insta
 * numpy
 * matplotlib.pyplot
 * nilearn
+* sklearn
+* 
 
 
 <!-- Task for next week:
