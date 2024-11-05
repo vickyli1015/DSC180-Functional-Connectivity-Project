@@ -12,7 +12,7 @@ For this project, we use the resting fMRI data from the Human Connectome Project
 
 In order to download the data you will need to make an account [here](https://db.humanconnectome.org/app/template/Login.vm;jsessionid=67A8B8766DEEA4CF0597C483C9203BE2). Then you can download timeseries data for each subject. Navigate to section titled *WU-Minn HCP Data - 1200 Subjects* and click *open dataset*. Find section titles *HCP1200 Parcellation+Timeseries+Netmats (PTN)* and download the 1003 subject data. Note: you may need to download IBM Aspera Launcher from [here](https://www.ibm.com/products/aspera/downloads#cds) in order to download the data. 
 
-Once you have the data download, you will be able to find the timeseries data in the folder titled `node_timeseries` and for our analysis we are using the data in the `3T_HCP1200_MSMAll_d100_ts2` folder which is stored originally as `NodeTimeseries_3T_HCP1200_MSMAll_ICAd200_ts2.tar.gz`. We are also using the file in the following path `HCP_PTN1200/groupICA/groupICA_3T_HCP1200_MSMAll_d100.ica/melodic_IC_sum.nii.gz` to plot our findings on the atlas of the brain.
+Once you have the data download, you will be able to find the timeseries data in the folder titled `node_timeseries` and for our analysis we are using the data in the `3T_HCP1200_MSMAll_d100_ts2` folder which is stored originally as `NodeTimeseries_3T_HCP1200_MSMAll_ICAd100_ts2.tar.gz`. We are also using the file in the following path `HCP_PTN1200/groupICA/groupICA_3T_HCP1200_MSMAll_d100.ica/melodic_IC_sum.nii.gz` to plot our findings on the atlas of the brain.
 
 
 ## Which Packages are necessary?
