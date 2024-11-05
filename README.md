@@ -4,6 +4,10 @@
 
 `main.ipynb` is the combination of all of our analysis and exploration on dynamic functional connectivity.
 
+`etl.py` contains the function of loading the data, brain labels that correlated with our brain region, and the brain image data.
+
+`requirement.txt` contains the non-built-in Python libraries that are used in our project.
+
 
 
 ## How to get the data?
