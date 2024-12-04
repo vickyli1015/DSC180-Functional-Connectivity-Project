@@ -6,3 +6,4 @@ atlasreader>=0.1.6
 nibabel>=3.2.1
 pathlib>=1.0.1
 matplotlib>=3.3.0
+plotly>=5.24.1
