@@ -2,11 +2,19 @@
 
 ## Project Structure:
 
-`main.ipynb` is the combination of all of our analysis and exploration on dynamic functional connectivity.
+`main.ipynb` is the combination of all of our analysis and exploration of dynamic functional connectivity.
 
-`etl.py` contains the function of loading the data, brain labels that correlated with our brain region, and the brain image data.
+`etl.py` contains the function of loading the data, brain labels that correlate with our brain region, and brain image data.
 
 `requirement.txt` contains the non-built-in Python libraries that are used in our project.
+
+`Previous Explorations` is the folder that contains all the details and steps of our analysis which is sorted by the creator of the analysis.
+
+`sliding_window_brain` is the folder that contains the interactive plots for each sliding window along with the connections in HTML form. Feel free to play with it!
+
+`images_latex ` is the folder that contains the high-quality images in the final report.
+
+`Behavioral Data` is the folder that contains the data we explored and prepared for the next project.
 
 
 
