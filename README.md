@@ -27,9 +27,10 @@ In order to run our notebook you would need to have the following packages insta
 * matplotlib.pyplot
 * nilearn
 * nibabel
-* sklearn
+* scikit-learn
 * atlasreader
-
+* pathlib
+* plotly
 
 
 <!-- Task for next week:
